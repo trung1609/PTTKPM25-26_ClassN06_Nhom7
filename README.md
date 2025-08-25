@@ -4,6 +4,16 @@
 
 ---
 
+## Thành viên nhóm
+|       Họ và tên       |   Mã sinh viên  |
+|-----------------------|-----------------|
+| Vũ Minh Trung         |     23010361    | 
+| Đoàn Quang Minh       |     23010392    |
+| Nguyễn Tường Hưng     |     23010439    |
+| Nguyễn Thị Kiều Trinh |     23010632    |
+| Nguyễn Xuân Mạnh      |     23010045    |
+
+
 ## 1. Mục tiêu dự án
 - Xây dựng một ứng dụng mua sắm trực tuyến cho phép người dùng đăng ký, đăng nhập, duyệt sản phẩm, thêm sản phẩm vào giỏ hàng và thực hiện mua hàng.
 - Hệ thống quản lý đơn hàng, người dùng và sản phẩm dành cho admin.
